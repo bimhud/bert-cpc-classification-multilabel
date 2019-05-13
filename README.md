@@ -1,5 +1,5 @@
-# bert-toxic-comments-multilabel
-Multilabel classification for Toxic comments challenge using Bert
+# bert-cpc-multilabel-classification
+Multilabel classification for CPC marks using Bert using initial codes from BERT-TOXIC-COMMENTS-MULTILABEL, see the reference below
 
 This repository contains the Jupyter notebook for multilabel text classification using BERT.  This is the accompanying code for the medium story https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d.
 
